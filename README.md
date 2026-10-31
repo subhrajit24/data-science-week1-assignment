@@ -11,7 +11,8 @@ Data cleansing, exploratory data analysis, and data visualization are the main t
  3. Essential EquipmentCode * *
    PythonCode *
    Pandas
-   NumPy
+   NumPyraw data; clean data;
+Notebook with analysis and cleaning for datasets, charts and outputs.
    Matplotlib# Readme raw data: raw data cleaned data
    Seaborn
    Jupyter Notebook
