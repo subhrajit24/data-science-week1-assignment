@@ -9,7 +9,7 @@ Data cleansing, exploratory data analysis, and data visualization are the main t
  * Project screenshots for the final report and analysis.
 
  3. Essential EquipmentCode * *
-   Python
+   PythonCode *
    Pandas
    NumPy
    Matplotlib
