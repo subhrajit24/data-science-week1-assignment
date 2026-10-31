@@ -5,10 +5,10 @@ Data cleansing, exploratory data analysis, and data visualization are the main t
  * The structure of the repository is as follows:# Readme
  * Raw data: raw data; cleaned data.
  * The analysis and cleaning notebook for outputs, charts, and datasets.
- * The dashboard generates reports and outputs for visualization.
+ * The dashboard generates reports and outputs for visualization.Code * *
  * Project screenshots for the final report and analysis.
 
- 3. Essential Equipment
+ 3. Essential EquipmentCode * *
    Python
    Pandas
    NumPy
