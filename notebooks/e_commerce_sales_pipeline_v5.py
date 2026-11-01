@@ -1,6 +1,6 @@
 """
 ========================================================================================
-E-COMMERCE SALES ANALYSIS AND DATA PIPELINE (Python Master Script - v5)
+E-COMMERCE SALES ANALYSIS AND DATA PIPELINE
 ========================================================================================
 Source Reference: Grounded strictly in e_commerce_sales_analysis.pdf
 
